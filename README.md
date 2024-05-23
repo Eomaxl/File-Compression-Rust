@@ -7,4 +7,5 @@ cargo run
 <br>
 
 After building it successfully, we can use the below commands to compress a file
+
 cargo run "source-file-name" "target-file-name"
