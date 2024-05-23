@@ -4,5 +4,7 @@ A simple rust project to compress a file. To use this project, clone this repo a
 
 To build the project
 cargo run
+<br>
+
 After building it successfully, we can use the below commands to compress a file
-cargo run <source-file-name> <target-file-name>
+cargo run "source-file-name" "target-file-name"
